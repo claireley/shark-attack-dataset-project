@@ -68,10 +68,13 @@ In terms of product development, boards and swimwear are of equal priority. Fish
 
 These results suggest that marketing efforts should be focused on a customer profile of a young male, likely English speaking, across a broad range of ocean sports. Marketing targetting at women should follow a similar age, and should be tailored to swimming.
 
-#### Team
+### Team
 Claire Leyden
 
 Zhiwen MO
+
+## Presentation link:
+https://docs.google.com/presentation/d/1S4-Dp7hUE5fuvDM1wnxrG_bx-HsWqrsjZrHfotUjU5c/edit?usp=sharing
 
 
 
