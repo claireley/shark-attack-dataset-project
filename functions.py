@@ -2,6 +2,7 @@ import pandas as pd
 import re
 import seaborn as sns
 import matplotlib.pyplot as plt
+import pycountry
 
 def clean_col_date(df):
   df2=df.copy()
