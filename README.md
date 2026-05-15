@@ -52,13 +52,17 @@ The company also lacks a clear understanding of the demographic and behavioral c
 Improve marketing effectiveness through data-driven customer and regional analysis.
 #### Question
 Which customer groups (age and gender) are most frequently involved in shark attacks?
+Are shark attacks more frequent during specific time period?
 #### Approach
 1. Standardised male and female values to M and F.
 2. The age category contained many strings alongside numbers. Regex was used to clean the values. This was used to capture leading numbers and replace strings. Before undertaking this step, any values containing the word months were replaced with zero. The first number replaced each entry, this applies to cases with a '?', values with 20s were replaced by 20, values with multiple numbers only retained the first number.
+3. Standardised the date formats.
+4. Looked at the frequency of attacks by month, then further looked at the country level to determine whether countries in the Northern and Southern hemisphere showed peaks in differing months.
 #### Results
 1. We found that men were more likely to be attacked than females.
 2. The distribution of attacks across ages was conserved, with similar means and standard deviations.
 3. More than half of women were attacked while swimming. In contrast, there was much more variation in sports for men, suggesting they may be more likely to participate in diving and fishing.
+4. Shark attacks peaked during summer months. For the United States this meant a peak in July, for Australia, the peak was seen in January.
 
 ## Conclusions and Insights
 
@@ -67,6 +71,8 @@ Our findings suggest that market expansion should be focused in the USA, Austral
 In terms of product development, boards and swimwear are of equal priority. Fishing equipment represents a third area of potential growth.
 
 These results suggest that marketing efforts should be focused on a customer profile of a young male, likely English speaking, across a broad range of ocean sports. Marketing targetting at women should follow a similar age, and should be tailored to swimming.
+
+Shark attacks peak in summer months, marketing spend should be focused during the lead up to summer, and summer itself.
 
 ### Team
 Claire Leyden
